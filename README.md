@@ -77,3 +77,9 @@ The original wine quality score was converted into a binary target:
 - Decision Tree handled non-linear relationships effectively.  
 
 ---
+## 🚀 How to Run
+
+1. Clone repository  
+2. Install packages: `pip install -r requirements.txt`  
+3. Open `Wine_Quality_Classification.ipynb` in Colab or Jupyter  
+
